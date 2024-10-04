@@ -1,1 +1,1 @@
-#congartulations this is my first github Repo.
+#Congratulations this is my first Github Repo.
